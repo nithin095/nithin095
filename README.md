@@ -1,7 +1,7 @@
 # Hi 👋, I'm Nithin Yadav Nethula
 
 ## Data Analyst | Python | SQL | Power BI
-<img align="right" width="350" src="https://png.pngtree.com/png-clipart/20240316/original/pngtree-d-analyst-working-on-business-analytics-dashboard-with-kpi-charts-and-png-image_14604777.png">
+<img align="right" width="200" src="https://png.pngtree.com/png-clipart/20240316/original/pngtree-d-analyst-working-on-business-analytics-dashboard-with-kpi-charts-and-png-image_14604777.png">
 
 ### 👨‍💻 About Me
 - 🎓 B.Tech Graduate 2025
