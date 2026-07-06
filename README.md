@@ -120,18 +120,17 @@ Python | Streamlit | Plotly
 ## 📊 GitHub Statistics
 
 <p align="center">
+  
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=nithin095&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=nithin095&show_icons=true&theme=tokyonight" />
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nithin095&theme=tokyonight" />
+<img height="180" src="https://github-readme-streak-stats-eight.vercel.app/?user=nithin095&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nithin095&theme=tokyo-night" />
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nithin095&theme=tokyo-night"/>
 
 ## Connect With Me
 
