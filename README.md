@@ -18,31 +18,89 @@
 
 ## 🛠 Tech Stack
 
-## 📊 Programming & Analytics
+### 💻 Programming & Analytics
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60"/>
-</p>
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=python" width="60"/><br>
+Python
+</td>
+
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60"/><br>
+Pandas
+</td>
+
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60"/><br>
+NumPy
+</td>
+
+</tr>
+</table>
 
 
+### 📊 Visualization
 
-## 📈 Visualization
+<table>
+<tr>
 
-![Power BI](https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi)
-![Tableau](https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau)
-![Excel](https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel)
+<td align="center" width="100">
+<img src="https://img.icons8.com/color/96/power-bi.png" width="60"/><br>
+Power BI
+</td>
+
+<td align="center" width="100">
+<img src="https://img.icons8.com/color/96/tableau-software.png" width="60"/><br>
+Tableau
+</td>
+
+<td align="center" width="100">
+<img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="60"/><br>
+Excel
+</td>
+
+</tr>
+</table>
 
 
-## 🗄 Database
+### 🗄 Database
 
-![SQL Server](https://img.shields.io/badge/SQL%20SERVER-CC2927?style=for-the-badge)
+<table>
+<tr>
 
-## ⚙ Tools
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=mysql" width="60"/><br>
+SQL
+</td>
 
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github)
+</tr>
+</table>
+
+
+### ⚙ Tools
+
+<table>
+<tr>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=git" width="60"/><br>
+Git
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=github" width="60"/><br>
+GitHub
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=vscode" width="60"/><br>
+VS Code
+</td>
+
+</tr>
+</table>
 
 ## 📌 Projects
 
