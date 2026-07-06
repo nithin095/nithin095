@@ -18,13 +18,13 @@
 
 ## 🛠 Tech Stack
 
-### 📊 Programming & Analytics
-
 ## 📊 Programming & Analytics
 
-![Python](https://img.shields.io/badge/PYTHON-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas)
+<p>
+<img src="https://skillicons.dev/icons?i=python" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60"/>
+</p>
 
 
 
