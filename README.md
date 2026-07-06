@@ -3,6 +3,11 @@
 ## Data Analyst | Python | SQL | Power BI
 <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithin-yadav-nethula)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nithin095)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nithinyadav948@gmail.com)
+
+
 ### 👨‍💻 About Me
 - 🎓 B.Tech Graduate 2025
 - 📊 Passionate about Data Analytics and Business Intelligence
