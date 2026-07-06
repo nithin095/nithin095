@@ -115,9 +115,23 @@ Python | Streamlit | Plotly
 
 ---
 
-# 📊 GitHub Statistics
+---
 
-![Nithin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nithin095&show_icons=true)
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=nithin095&show_icons=true&theme=tokyonight" />
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nithin095&theme=tokyonight" />
+
+</p>
+
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nithin095&theme=tokyo-night" />
+
 
 ## Connect With Me
 
