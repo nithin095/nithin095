@@ -135,3 +135,19 @@ Python | Streamlit | Plotly
 ## Connect With Me
 
 LinkedIn: www.linkedin.com/in/nithin-yadav-nethula
+
+---
+
+## 🤝 Let's Connect & Grow Together
+
+Thanks for visiting my profile! 😊
+
+⭐ Feel free to explore my projects  
+📊 Always learning and improving my Data Analytics skills  
+🚀 Open to Data Analyst opportunities and collaborations  
+
+---
+
+<p align="center">
+✨ Turning Data into Insights ✨
+</p>
